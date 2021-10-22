@@ -1,4 +1,4 @@
-package terrakube.tools
+package Terrakube.Tools
 @Grapes([
   @Grab('commons-io:commons-io:2.8.0'),
   @Grab('org.apache.commons:commons-compress:1.21')
